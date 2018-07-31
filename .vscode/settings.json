@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/dronische/.platformio/penv/bin:/home/dronische/.platformio/penv:/home/dronische/.local/share/umake/bin:/home/dronische/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/media/storage-unprotected/opt/esp-open-sdk/esptool2:/media/storage-unprotected/opt/xtensa-esp32-elf/bin:/media/storage-unprotected/opt/esp-open-sdk/xtensa-lx106-elf/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
